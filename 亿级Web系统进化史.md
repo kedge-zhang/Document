@@ -1,12 +1,3 @@
-# Github
-```
-echo "# Micro-text-" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/kedge-zhang/Micro-text-.git
-git push -u origin master
-```
 # 亿级Web系统搭建—单机到分布式集群(进化史)
 当一个Web系统从日访问量10万逐步增长到1000万，甚至超过1亿的过程中，Web系统承受的压力会越来越大，在这个过程中，我们会遇到很多的问题。为了解决这些性能压力带来问题，我们需要在Web系统架构层面搭建多个层次的缓存机制。在不同的压力阶段，我们会遇到不同的问题，通过搭建不同的服务和架构来解决。
 
